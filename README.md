@@ -99,13 +99,3 @@ This dashboard helps businesses:
 - Track product-level performance
 
 ---
-
-# 📂 Repository Structure
-
-```text
-Ecommerce-Customer-Behaviour-Analysis/
-│
-├── Ecommerce_Customer_Behaviour_Dashboard.xlsx
-├── Dataset.xlsx
-├── Dashboard.png
-└── README.md
